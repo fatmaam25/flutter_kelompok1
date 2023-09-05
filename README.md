@@ -1,6 +1,8 @@
 # flutter_kelompok1
 
-A new Flutter project.
+-Catur Wulan Ndari
+-Fatma Anggraini Mu'arofah
+-Syafaat Akbar
 
 ## Getting Started
 
